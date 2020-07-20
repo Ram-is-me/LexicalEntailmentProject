@@ -1,0 +1,3 @@
+en_leg de_arm 0.28
+en_family de_zuhause 1.75
+de_ruhesessel en_furniture 5.48
